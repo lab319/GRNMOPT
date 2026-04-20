@@ -3,7 +3,7 @@
 
 **GRNMOPT is a scalable method exploiting utilizes decay rate and time-delay together to construct ODEs model, a multi-objective optimization method based on the Non-dominated Sorting Genetic Algorithms II (NSGA-II) is applied in GRNMOPT to simultaneously optimize decay rate and time-delay.** 
 
-If you find our method is useful, please cite our paper: Heng Dong, Baoshan Ma, Yangyang Meng, Yiming Wu, Yongjing Liu, Tao Zeng, Jinyan Huang. GRNMOPT: Inference of gene regulatory networks based on a multi-objective optimization approach[J]. Computational Biology and Chemistry, 2024, 113: 108223.
+If you find our method is useful, please cite our paper: Heng Dong, Baoshan Ma, Yangyang Meng, Yiming Wu, Yongjing Liu, Tao Zeng, Jinyan Huang. GRNMOPT: Inference of gene regulatory networks based on a multi-objective optimization approach[J]. Computational Biology and Chemistry, 2024, 113: 108223.https://doi.org/10.1016/j.compbiolchem.2024.108223
 
 
 ### The describe of the program 
